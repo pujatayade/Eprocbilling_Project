@@ -1,0 +1,424 @@
+2019-12-16 10:09:59 INFO  Test_Base:31 - ****************************** starting test case *****************************************
+2019-12-16 10:09:59 INFO  Test_Base:32 - ******************************TitleTest *****************************************
+2019-12-16 11:36:54 INFO  Test_Base:31 - ****************************** starting test case *****************************************
+2019-12-16 11:36:54 INFO  Test_Base:32 - ******************************TitleTest *****************************************
+2019-12-16 11:37:48 INFO  Test_Base:31 - ****************************** starting test case *****************************************
+2019-12-16 11:37:48 INFO  Test_Base:32 - ******************************TitleTest *****************************************
+2019-12-16 11:41:52 INFO  Test_Base:31 - ******************** starting test case **********************
+2019-12-16 11:41:52 INFO  Test_Base:32 - **********************TitleTest ******************************
+2019-12-16 11:41:52 INFO  Test_Base:35 - **********************Test case end ******************************
+2019-12-16 11:42:41 INFO  Test_Base:40 - ******************** starting test case **********************
+2019-12-16 11:42:41 INFO  Test_Base:41 - **********************Logo_Test ******************************
+2019-12-16 11:45:10 INFO  Test_Base:31 - ******************** starting test case **********************
+2019-12-16 11:45:10 INFO  Test_Base:32 - **********************TitleTest ******************************
+2019-12-16 11:45:10 INFO  Test_Base:35 - **********************Test case end ******************************
+2019-12-16 12:24:07 INFO  Test_Base:31 - ******************** starting test case **********************
+2019-12-16 12:24:07 INFO  Test_Base:32 - **********************TitleTest ******************************
+2019-12-16 12:24:07 INFO  Test_Base:35 - **********************Test case end ******************************
+2019-12-16 12:24:12 INFO  Test_Base:40 - ******************** starting test case **********************
+2019-12-16 12:24:12 INFO  Test_Base:41 - **********************Logo_Test ******************************
+2019-12-16 12:24:12 INFO  Test_Base:44 - **********************Test case end ******************************
+2019-12-16 12:24:17 INFO  Test_Base:50 - ******************** starting test case **********************
+2019-12-16 12:24:17 INFO  Test_Base:51 - **********************company_wordTest ******************************
+2019-12-16 12:24:17 INFO  Test_Base:54 - **********************Test case end ******************************
+2019-12-16 19:25:45 INFO  Test_Base:31 - ******************** starting test case **********************
+2019-12-16 19:25:45 INFO  Test_Base:32 - **********************TitleTest ******************************
+2019-12-16 19:25:45 INFO  Test_Base:35 - **********************Test case end ******************************
+2019-12-16 19:25:54 INFO  Test_Base:40 - ******************** starting test case **********************
+2019-12-16 19:25:54 INFO  Test_Base:41 - **********************Logo_Test ******************************
+2019-12-16 19:25:54 INFO  Test_Base:44 - **********************Test case end ******************************
+2019-12-16 19:26:00 INFO  Test_Base:50 - ******************** starting test case **********************
+2019-12-16 19:26:00 INFO  Test_Base:51 - **********************company_wordTest ******************************
+2019-12-16 19:26:00 INFO  Test_Base:54 - **********************Test case end ******************************
+2019-12-16 19:27:13 INFO  Test_Base:31 - ******************** starting test case **********************
+2019-12-16 19:27:13 INFO  Test_Base:32 - **********************TitleTest ******************************
+2019-12-16 19:27:13 INFO  Test_Base:35 - **********************Test case end ******************************
+2019-12-16 19:28:01 INFO  Test_Base:31 - ******************** starting test case **********************
+2019-12-16 19:28:01 INFO  Test_Base:32 - **********************TitleTest ******************************
+2019-12-16 19:28:01 INFO  Test_Base:35 - **********************Test case end ******************************
+2019-12-16 19:29:31 INFO  Test_Base:31 - ******************** starting test case **********************
+2019-12-16 19:29:31 INFO  Test_Base:32 - **********************TitleTest ******************************
+2019-12-16 19:29:31 INFO  Test_Base:35 - **********************Test case end ******************************
+2019-12-16 19:31:39 INFO  Test_Base:31 - ******************** starting test case **********************
+2019-12-16 19:31:39 INFO  Test_Base:32 - **********************TitleTest ******************************
+2019-12-16 19:31:39 INFO  Test_Base:35 - **********************Test case end ******************************
+2019-12-16 19:32:52 INFO  Test_Base:31 - ******************** starting test case **********************
+2019-12-16 19:32:52 INFO  Test_Base:32 - **********************TitleTest ******************************
+2019-12-16 19:32:52 INFO  Test_Base:35 - **********************Test case end ******************************
+2019-12-16 19:32:58 INFO  Test_Base:41 - ******************** starting test case **********************
+2019-12-16 19:32:58 INFO  Test_Base:42 - **********************Logo_Test ******************************
+2019-12-16 19:32:58 INFO  Test_Base:45 - **********************Test case end ******************************
+2019-12-16 19:33:03 INFO  Test_Base:52 - ******************** starting test case **********************
+2019-12-16 19:33:03 INFO  Test_Base:53 - **********************company_wordTest ******************************
+2019-12-16 19:33:03 INFO  Test_Base:56 - **********************Test case end ******************************
+2019-12-16 19:37:15 INFO  Test_Base:31 - ******************** starting test case **********************
+2019-12-16 19:37:15 INFO  Test_Base:32 - **********************TitleTest ******************************
+2019-12-16 19:37:15 INFO  Test_Base:35 - **********************Test case end ******************************
+2019-12-16 19:37:30 INFO  Test_Base:41 - ******************** starting test case **********************
+2019-12-16 19:37:30 INFO  Test_Base:42 - **********************Logo_Test ******************************
+2019-12-16 19:37:30 INFO  Test_Base:45 - **********************Test case end ******************************
+2019-12-16 19:37:35 INFO  Test_Base:52 - ******************** starting test case **********************
+2019-12-16 19:37:35 INFO  Test_Base:53 - **********************company_wordTest ******************************
+2019-12-16 19:37:35 INFO  Test_Base:56 - **********************Test case end ******************************
+2019-12-16 19:38:15 INFO  Test_Base:31 - ******************** starting test case **********************
+2019-12-16 19:38:15 INFO  Test_Base:32 - **********************TitleTest ******************************
+2019-12-16 19:38:15 INFO  Test_Base:35 - **********************Test case end ******************************
+2019-12-16 19:38:27 INFO  Test_Base:41 - ******************** starting test case **********************
+2019-12-16 19:38:27 INFO  Test_Base:42 - **********************Logo_Test ******************************
+2019-12-16 19:38:27 INFO  Test_Base:45 - **********************Test case end ******************************
+2019-12-16 19:38:32 INFO  Test_Base:52 - ******************** starting test case **********************
+2019-12-16 19:38:32 INFO  Test_Base:53 - **********************company_wordTest ******************************
+2019-12-16 19:38:32 INFO  Test_Base:56 - **********************Test case end ******************************
+2019-12-16 19:41:40 INFO  Test_Base:31 - ******************** starting test case **********************
+2019-12-16 19:41:40 INFO  Test_Base:32 - **********************TitleTest ******************************
+2019-12-16 19:41:40 INFO  Test_Base:35 - **********************Test case end ******************************
+2019-12-16 19:41:45 INFO  Test_Base:41 - ******************** starting test case **********************
+2019-12-16 19:41:45 INFO  Test_Base:42 - **********************Logo_Test ******************************
+2019-12-16 19:41:45 INFO  Test_Base:45 - **********************Test case end ******************************
+2019-12-16 19:41:50 INFO  Test_Base:52 - ******************** starting test case **********************
+2019-12-16 19:41:50 INFO  Test_Base:53 - **********************company_wordTest ******************************
+2019-12-16 19:41:50 INFO  Test_Base:56 - **********************Test case end ******************************
+2019-12-17 09:59:39 INFO  Test_Base:31 - ******************** starting test case **********************
+2019-12-17 09:59:39 INFO  Test_Base:32 - **********************TitleTest ******************************
+2019-12-17 09:59:39 INFO  Test_Base:35 - **********************Test case end ******************************
+2019-12-17 09:59:44 INFO  Test_Base:41 - ******************** starting test case **********************
+2019-12-17 09:59:44 INFO  Test_Base:42 - **********************Logo_Test ******************************
+2019-12-17 09:59:45 INFO  Test_Base:45 - **********************Test case end ******************************
+2019-12-17 09:59:50 INFO  Test_Base:52 - ******************** starting test case **********************
+2019-12-17 09:59:50 INFO  Test_Base:53 - **********************company_wordTest ******************************
+2019-12-17 09:59:50 INFO  Test_Base:56 - **********************Test case end ******************************
+2019-12-17 18:06:52 INFO  Test_Base:31 - ******************** starting test case **********************
+2019-12-17 18:06:52 INFO  Test_Base:32 - **********************TitleTest ******************************
+2019-12-17 18:06:52 INFO  Test_Base:35 - **********************Test case end ******************************
+2019-12-17 18:06:59 INFO  Test_Base:41 - ******************** starting test case **********************
+2019-12-17 18:06:59 INFO  Test_Base:42 - **********************Logo_Test ******************************
+2019-12-17 18:06:59 INFO  Test_Base:45 - **********************Test case end ******************************
+2019-12-17 18:07:04 INFO  Test_Base:52 - ******************** starting test case **********************
+2019-12-17 18:07:04 INFO  Test_Base:53 - **********************company_wordTest ******************************
+2019-12-17 18:07:04 INFO  Test_Base:56 - **********************Test case end ******************************
+2019-12-17 18:18:53 INFO  Test_Base:31 - ******************** starting test case **********************
+2019-12-17 18:18:53 INFO  Test_Base:32 - **********************TitleTest ******************************
+2019-12-17 18:18:53 INFO  Test_Base:35 - **********************Test case end ******************************
+2019-12-17 18:18:58 INFO  Test_Base:41 - ******************** starting test case **********************
+2019-12-17 18:18:58 INFO  Test_Base:42 - **********************Logo_Test ******************************
+2019-12-17 18:18:58 INFO  Test_Base:45 - **********************Test case end ******************************
+2019-12-17 18:19:03 INFO  Test_Base:52 - ******************** starting test case **********************
+2019-12-17 18:19:03 INFO  Test_Base:53 - **********************company_wordTest ******************************
+2019-12-17 18:19:03 INFO  Test_Base:56 - **********************Test case end ******************************
+2019-12-17 18:19:57 INFO  Test_Base:31 - ******************** starting test case **********************
+2019-12-17 18:19:57 INFO  Test_Base:32 - **********************TitleTest ******************************
+2019-12-17 18:19:58 INFO  Test_Base:35 - **********************Test case end ******************************
+2019-12-17 18:20:04 INFO  Test_Base:41 - ******************** starting test case **********************
+2019-12-17 18:20:04 INFO  Test_Base:42 - **********************Logo_Test ******************************
+2019-12-17 18:20:04 INFO  Test_Base:45 - **********************Test case end ******************************
+2019-12-17 18:20:12 INFO  Test_Base:52 - ******************** starting test case **********************
+2019-12-17 18:20:12 INFO  Test_Base:53 - **********************company_wordTest ******************************
+2019-12-17 18:20:12 INFO  Test_Base:56 - **********************Test case end ******************************
+2019-12-17 18:35:51 INFO  Test_Base:31 - ******************** starting test case **********************
+2019-12-17 18:35:52 INFO  Test_Base:32 - **********************TitleTest ******************************
+2019-12-17 18:35:52 INFO  Test_Base:35 - **********************Test case end ******************************
+2019-12-17 18:35:56 INFO  Test_Base:41 - ******************** starting test case **********************
+2019-12-17 18:35:56 INFO  Test_Base:42 - **********************Logo_Test ******************************
+2019-12-17 18:35:56 INFO  Test_Base:45 - **********************Test case end ******************************
+2019-12-17 18:36:02 INFO  Test_Base:52 - ******************** starting test case **********************
+2019-12-17 18:36:02 INFO  Test_Base:53 - **********************company_wordTest ******************************
+2019-12-17 18:36:02 INFO  Test_Base:56 - **********************Test case end ******************************
+2019-12-20 15:40:16 INFO  Test_Base:31 - ******************** starting test case **********************
+2019-12-20 15:40:16 INFO  Test_Base:32 - **********************TitleTest ******************************
+2019-12-20 15:40:17 INFO  Test_Base:35 - **********************Test case end ******************************
+2019-12-20 15:40:21 INFO  Test_Base:41 - ******************** starting test case **********************
+2019-12-20 15:40:21 INFO  Test_Base:42 - **********************Logo_Test ******************************
+2019-12-20 15:40:21 INFO  Test_Base:45 - **********************Test case end ******************************
+2019-12-20 15:40:26 INFO  Test_Base:52 - ******************** starting test case **********************
+2019-12-20 15:40:26 INFO  Test_Base:53 - **********************company_wordTest ******************************
+2019-12-20 15:40:26 INFO  Test_Base:56 - **********************Test case end ******************************
+2019-12-20 15:41:07 INFO  Test_Base:31 - ******************** starting test case **********************
+2019-12-20 15:41:07 INFO  Test_Base:32 - **********************TitleTest ******************************
+2019-12-20 15:41:07 INFO  Test_Base:35 - **********************Test case end ******************************
+2019-12-20 15:41:11 INFO  Test_Base:41 - ******************** starting test case **********************
+2019-12-20 15:41:11 INFO  Test_Base:42 - **********************Logo_Test ******************************
+2019-12-20 15:41:11 INFO  Test_Base:45 - **********************Test case end ******************************
+2019-12-20 15:41:15 INFO  Test_Base:52 - ******************** starting test case **********************
+2019-12-20 15:41:15 INFO  Test_Base:53 - **********************company_wordTest ******************************
+2019-12-20 15:41:15 INFO  Test_Base:56 - **********************Test case end ******************************
+2019-12-20 15:42:12 INFO  Test_Base:31 - ******************** starting test case **********************
+2019-12-20 15:42:12 INFO  Test_Base:32 - **********************TitleTest ******************************
+2019-12-20 15:42:12 INFO  Test_Base:35 - **********************Test case end ******************************
+2019-12-20 15:42:17 INFO  Test_Base:41 - ******************** starting test case **********************
+2019-12-20 15:42:17 INFO  Test_Base:42 - **********************Logo_Test ******************************
+2019-12-20 15:42:17 INFO  Test_Base:45 - **********************Test case end ******************************
+2019-12-20 15:42:21 INFO  Test_Base:52 - ******************** starting test case **********************
+2019-12-20 15:42:21 INFO  Test_Base:53 - **********************company_wordTest ******************************
+2019-12-20 15:42:21 INFO  Test_Base:56 - **********************Test case end ******************************
+2019-12-20 18:05:14 INFO  Test_Base:31 - ******************** starting test case **********************
+2019-12-20 18:05:14 INFO  Test_Base:32 - **********************TitleTest ******************************
+2019-12-20 18:05:14 INFO  Test_Base:35 - **********************Test case end ******************************
+2019-12-20 18:06:23 INFO  Test_Base:41 - ******************** starting test case **********************
+2019-12-20 18:06:23 INFO  Test_Base:42 - **********************Logo_Test ******************************
+2019-12-20 18:06:23 INFO  Test_Base:45 - **********************Test case end ******************************
+2019-12-20 18:07:54 INFO  Test_Base:52 - ******************** starting test case **********************
+2019-12-20 18:07:54 INFO  Test_Base:53 - **********************company_wordTest ******************************
+2019-12-20 18:07:54 INFO  Test_Base:56 - **********************Test case end ******************************
+2019-12-20 18:16:23 INFO  Test_Base:31 - ******************** starting test case **********************
+2019-12-20 18:16:23 INFO  Test_Base:31 - ******************** starting test case **********************
+2019-12-20 18:16:23 INFO  Test_Base:31 - ******************** starting test case **********************
+2019-12-20 18:16:23 INFO  Test_Base:32 - **********************TitleTest ******************************
+2019-12-20 18:16:23 INFO  Test_Base:32 - **********************TitleTest ******************************
+2019-12-20 18:16:23 INFO  Test_Base:32 - **********************TitleTest ******************************
+2019-12-20 18:16:23 INFO  Test_Base:35 - **********************Test case end ******************************
+2019-12-20 18:16:23 INFO  Test_Base:35 - **********************Test case end ******************************
+2019-12-20 18:16:23 INFO  Test_Base:35 - **********************Test case end ******************************
+2019-12-20 18:18:08 INFO  Test_Base:41 - ******************** starting test case **********************
+2019-12-20 18:18:08 INFO  Test_Base:42 - **********************Logo_Test ******************************
+2019-12-20 18:18:08 INFO  Test_Base:45 - **********************Test case end ******************************
+2019-12-20 18:18:09 INFO  Test_Base:41 - ******************** starting test case **********************
+2019-12-20 18:18:09 INFO  Test_Base:42 - **********************Logo_Test ******************************
+2019-12-20 18:18:09 INFO  Test_Base:45 - **********************Test case end ******************************
+2019-12-20 18:18:12 INFO  Test_Base:41 - ******************** starting test case **********************
+2019-12-20 18:18:12 INFO  Test_Base:42 - **********************Logo_Test ******************************
+2019-12-20 18:18:12 INFO  Test_Base:45 - **********************Test case end ******************************
+2019-12-20 18:22:01 INFO  Test_Base:31 - ******************** starting test case **********************
+2019-12-20 18:22:01 INFO  Test_Base:32 - **********************TitleTest ******************************
+2019-12-20 18:22:01 INFO  Test_Base:35 - **********************Test case end ******************************
+2019-12-20 18:23:21 INFO  Test_Base:41 - ******************** starting test case **********************
+2019-12-20 18:23:21 INFO  Test_Base:42 - **********************Logo_Test ******************************
+2019-12-20 18:23:21 INFO  Test_Base:45 - **********************Test case end ******************************
+2019-12-20 18:27:06 INFO  Test_Base:31 - ******************** starting test case **********************
+2019-12-20 18:27:06 INFO  Test_Base:32 - **********************TitleTest ******************************
+2019-12-20 18:27:06 INFO  Test_Base:35 - **********************Test case end ******************************
+2019-12-20 18:28:06 INFO  Test_Base:41 - ******************** starting test case **********************
+2019-12-20 18:28:06 INFO  Test_Base:42 - **********************Logo_Test ******************************
+2019-12-20 18:28:06 INFO  Test_Base:45 - **********************Test case end ******************************
+2019-12-20 18:30:03 INFO  Test_Base:52 - ******************** starting test case **********************
+2019-12-20 18:30:03 INFO  Test_Base:53 - **********************company_wordTest ******************************
+2019-12-20 18:30:03 INFO  Test_Base:56 - **********************Test case end ******************************
+2019-12-20 18:34:04 INFO  Test_Base:31 - ******************** starting test case **********************
+2019-12-20 18:34:04 INFO  Test_Base:32 - **********************TitleTest ******************************
+2019-12-20 18:34:04 INFO  Test_Base:35 - **********************Test case end ******************************
+2019-12-20 18:34:52 INFO  Test_Base:41 - ******************** starting test case **********************
+2019-12-20 18:34:52 INFO  Test_Base:42 - **********************Logo_Test ******************************
+2019-12-20 18:34:52 INFO  Test_Base:45 - **********************Test case end ******************************
+2019-12-20 18:36:52 INFO  Test_Base:52 - ******************** starting test case **********************
+2019-12-20 18:36:52 INFO  Test_Base:53 - **********************company_wordTest ******************************
+2019-12-20 18:36:52 INFO  Test_Base:56 - **********************Test case end ******************************
+2019-12-23 11:18:54 INFO  Test_Base:31 - ******************** starting test case **********************
+2019-12-23 11:18:54 INFO  Test_Base:32 - **********************TitleTest ******************************
+2019-12-23 11:18:54 INFO  Test_Base:35 - **********************Test case end ******************************
+2019-12-23 11:20:23 INFO  Test_Base:41 - ******************** starting test case **********************
+2019-12-23 11:20:23 INFO  Test_Base:42 - **********************Logo_Test ******************************
+2019-12-23 11:20:23 INFO  Test_Base:45 - **********************Test case end ******************************
+2019-12-23 11:23:39 INFO  Test_Base:52 - ******************** starting test case **********************
+2019-12-23 11:23:39 INFO  Test_Base:53 - **********************company_wordTest ******************************
+2019-12-23 11:23:39 INFO  Test_Base:56 - **********************Test case end ******************************
+2019-12-23 11:24:32 INFO  Test_Base:31 - ******************** starting test case **********************
+2019-12-23 11:24:32 INFO  Test_Base:32 - **********************TitleTest ******************************
+2019-12-23 11:24:32 INFO  Test_Base:35 - **********************Test case end ******************************
+2019-12-23 11:25:17 INFO  Test_Base:41 - ******************** starting test case **********************
+2019-12-23 11:25:17 INFO  Test_Base:42 - **********************Logo_Test ******************************
+2019-12-23 11:25:17 INFO  Test_Base:45 - **********************Test case end ******************************
+2019-12-23 11:26:36 INFO  Test_Base:52 - ******************** starting test case **********************
+2019-12-23 11:26:36 INFO  Test_Base:53 - **********************company_wordTest ******************************
+2019-12-23 11:26:36 INFO  Test_Base:56 - **********************Test case end ******************************
+2019-12-23 11:29:05 INFO  Test_Base:31 - ******************** starting test case **********************
+2019-12-23 11:29:05 INFO  Test_Base:32 - **********************TitleTest ******************************
+2019-12-23 11:29:05 INFO  Test_Base:35 - **********************Test case end ******************************
+2019-12-23 11:29:10 INFO  Test_Base:41 - ******************** starting test case **********************
+2019-12-23 11:29:10 INFO  Test_Base:42 - **********************Logo_Test ******************************
+2019-12-23 11:29:10 INFO  Test_Base:45 - **********************Test case end ******************************
+2019-12-23 11:29:35 INFO  Test_Base:52 - ******************** starting test case **********************
+2019-12-23 11:29:35 INFO  Test_Base:53 - **********************company_wordTest ******************************
+2019-12-23 11:33:03 INFO  Test_Base:31 - ******************** starting test case **********************
+2019-12-23 11:33:03 INFO  Test_Base:32 - **********************TitleTest ******************************
+2019-12-23 11:33:03 INFO  Test_Base:35 - **********************Test case end ******************************
+2019-12-23 11:33:08 INFO  Test_Base:41 - ******************** starting test case **********************
+2019-12-23 11:33:08 INFO  Test_Base:42 - **********************Logo_Test ******************************
+2019-12-23 11:33:08 INFO  Test_Base:45 - **********************Test case end ******************************
+2019-12-23 11:33:12 INFO  Test_Base:52 - ******************** starting test case **********************
+2019-12-23 11:33:12 INFO  Test_Base:53 - **********************company_wordTest ******************************
+2019-12-23 11:33:12 INFO  Test_Base:56 - **********************Test case end ******************************
+2019-12-23 12:12:00 INFO  Test_Base:31 - ******************** starting test case **********************
+2019-12-23 12:12:00 INFO  Test_Base:32 - **********************TitleTest ******************************
+2019-12-23 12:12:00 INFO  Test_Base:35 - **********************Test case end ******************************
+2019-12-23 12:12:07 INFO  Test_Base:41 - ******************** starting test case **********************
+2019-12-23 12:12:07 INFO  Test_Base:42 - **********************Logo_Test ******************************
+2019-12-23 12:12:07 INFO  Test_Base:45 - **********************Test case end ******************************
+2019-12-23 12:12:22 INFO  Test_Base:52 - ******************** starting test case **********************
+2019-12-23 12:12:22 INFO  Test_Base:53 - **********************company_wordTest ******************************
+2019-12-23 12:12:23 INFO  Test_Base:56 - **********************Test case end ******************************
+2019-12-25 12:45:20 INFO  Test_Base:31 - ******************** starting test case **********************
+2019-12-25 12:45:20 INFO  Test_Base:32 - **********************TitleTest ******************************
+2019-12-25 12:45:56 INFO  Test_Base:41 - ******************** starting test case **********************
+2019-12-25 12:45:56 INFO  Test_Base:42 - **********************Logo_Test ******************************
+2019-12-25 12:45:56 INFO  Test_Base:45 - **********************Test case end ******************************
+2019-12-25 12:47:11 INFO  Test_Base:52 - ******************** starting test case **********************
+2019-12-25 12:47:11 INFO  Test_Base:53 - **********************company_wordTest ******************************
+2019-12-25 12:48:19 INFO  Test_Base:31 - ******************** starting test case **********************
+2019-12-25 12:48:19 INFO  Test_Base:32 - **********************TitleTest ******************************
+2019-12-25 12:48:29 INFO  Test_Base:31 - ******************** starting test case **********************
+2019-12-25 12:48:29 INFO  Test_Base:32 - **********************TitleTest ******************************
+2019-12-25 12:49:52 INFO  Test_Base:31 - ******************** starting test case **********************
+2019-12-25 12:49:52 INFO  Test_Base:32 - **********************TitleTest ******************************
+2019-12-25 12:49:52 INFO  Test_Base:35 - **********************Test case end ******************************
+2019-12-25 12:49:59 INFO  Test_Base:41 - ******************** starting test case **********************
+2019-12-25 12:49:59 INFO  Test_Base:42 - **********************Logo_Test ******************************
+2019-12-25 12:49:59 INFO  Test_Base:45 - **********************Test case end ******************************
+2019-12-25 12:50:25 INFO  Test_Base:52 - ******************** starting test case **********************
+2019-12-25 12:50:25 INFO  Test_Base:53 - **********************company_wordTest ******************************
+2019-12-25 12:50:25 INFO  Test_Base:56 - **********************Test case end ******************************
+2019-12-25 12:51:23 INFO  Test_Base:31 - ******************** starting test case **********************
+2019-12-25 12:51:23 INFO  Test_Base:32 - **********************TitleTest ******************************
+2019-12-25 12:51:23 INFO  Test_Base:35 - **********************Test case end ******************************
+2019-12-25 12:51:27 INFO  Test_Base:41 - ******************** starting test case **********************
+2019-12-25 12:51:27 INFO  Test_Base:42 - **********************Logo_Test ******************************
+2019-12-25 12:51:27 INFO  Test_Base:45 - **********************Test case end ******************************
+2019-12-25 12:51:36 INFO  Test_Base:52 - ******************** starting test case **********************
+2019-12-25 12:51:36 INFO  Test_Base:53 - **********************company_wordTest ******************************
+2019-12-25 12:51:36 INFO  Test_Base:56 - **********************Test case end ******************************
+2019-12-25 13:16:14 INFO  Test_Base:53 - Add items in page
+2019-12-25 13:16:18 INFO  Test_Base:56 - items get added
+2019-12-25 13:16:25 INFO  Test_Base:53 - Add items in page
+2019-12-25 13:16:30 INFO  Test_Base:56 - items get added
+2019-12-25 13:16:34 INFO  Test_Base:55 - Check username is visible
+2019-12-25 13:16:34 INFO  Test_Base:59 - username is visible
+2019-12-25 13:16:38 INFO  Test_Base:30 - check title of loginpage
+2019-12-25 13:16:38 INFO  Test_Base:33 - title page is correct
+2019-12-25 13:16:51 INFO  Test_Base:51 - check title page of addstock categories
+2019-12-25 13:16:51 INFO  Test_Base:55 - title page of addstock categories is correct
+2019-12-25 13:16:56 INFO  Test_Base:62 - check click button
+2019-12-25 13:16:56 INFO  Test_Base:64 - button can be click
+2019-12-25 13:17:00 INFO  Test_Base:38 - check logo is available
+2019-12-25 13:17:00 INFO  Test_Base:41 - logo is available
+2019-12-25 13:17:05 INFO  Test_Base:66 - Check username placeholder is visible
+2019-12-25 13:17:05 INFO  Test_Base:70 - username placeholder is visible
+2019-12-25 13:17:22 INFO  Test_Base:41 - check Eprocbillingword is visible
+2019-12-25 13:17:23 INFO  Test_Base:45 - Eprocbilling is visible
+2019-12-25 13:17:30 INFO  Test_Base:60 - check webtable is available
+2019-12-25 13:17:30 INFO  Test_Base:62 - webtable is available
+2019-12-25 13:17:34 INFO  Test_Base:47 - check companyword is visible
+2019-12-25 13:17:34 INFO  Test_Base:50 - companyword is visible
+2019-12-25 13:17:41 INFO  Test_Base:75 - check password is visible
+2019-12-25 13:17:41 INFO  Test_Base:79 - password is visible
+2019-12-25 13:17:56 INFO  Test_Base:50 - check user click on items page
+2019-12-25 13:17:58 INFO  Test_Base:52 - user click on items page
+2019-12-25 13:18:08 INFO  Test_Base:67 - check webtable
+2019-12-25 13:18:39 INFO  Test_Base:69 - webtable is correct
+2019-12-25 13:19:00 INFO  Test_Base:84 - check password placeholder is visible
+2019-12-25 13:19:00 INFO  Test_Base:88 - password placeholder is visible
+2019-12-25 13:19:06 INFO  Test_Base:94 - user can login
+2019-12-25 13:41:37 INFO  Test_Base:53 - Add items in page
+2019-12-25 13:41:42 INFO  Test_Base:56 - items get added
+2019-12-25 13:41:48 INFO  Test_Base:53 - Add items in page
+2019-12-25 13:41:53 INFO  Test_Base:56 - items get added
+2019-12-27 10:10:43 INFO  Test_Base:53 - Add items in page
+2019-12-27 10:10:48 INFO  Test_Base:56 - items get added
+2019-12-27 10:10:56 INFO  Test_Base:53 - Add items in page
+2019-12-27 10:11:00 INFO  Test_Base:56 - items get added
+2019-12-27 10:11:06 INFO  Test_Base:55 - Check username is visible
+2019-12-27 10:11:06 INFO  Test_Base:59 - username is visible
+2019-12-27 10:11:10 INFO  Test_Base:30 - check title of loginpage
+2019-12-27 10:11:11 INFO  Test_Base:33 - title page is correct
+2019-12-27 10:11:25 INFO  Test_Base:51 - check title page of addstock categories
+2019-12-27 10:11:25 INFO  Test_Base:55 - title page of addstock categories is correct
+2019-12-27 10:11:31 INFO  Test_Base:62 - check click button
+2019-12-27 10:11:31 INFO  Test_Base:64 - button can be click
+2019-12-27 10:11:36 INFO  Test_Base:38 - check logo is available
+2019-12-27 10:11:36 INFO  Test_Base:41 - logo is available
+2019-12-27 10:11:41 INFO  Test_Base:66 - Check username placeholder is visible
+2019-12-27 10:11:41 INFO  Test_Base:70 - username placeholder is visible
+2019-12-27 10:12:04 INFO  Test_Base:41 - check Eprocbillingword is visible
+2019-12-27 10:12:04 INFO  Test_Base:45 - Eprocbilling is visible
+2019-12-27 10:12:12 INFO  Test_Base:60 - check webtable is available
+2019-12-27 10:12:12 INFO  Test_Base:62 - webtable is available
+2019-12-27 10:12:17 INFO  Test_Base:47 - check companyword is visible
+2019-12-27 10:12:17 INFO  Test_Base:50 - companyword is visible
+2019-12-27 10:12:21 INFO  Test_Base:75 - check password is visible
+2019-12-27 10:12:21 INFO  Test_Base:79 - password is visible
+2019-12-27 10:12:33 INFO  Test_Base:50 - check user click on items page
+2019-12-27 10:12:34 INFO  Test_Base:52 - user click on items page
+2019-12-27 10:12:40 INFO  Test_Base:67 - check webtable
+2019-12-27 10:13:11 INFO  Test_Base:69 - webtable is correct
+2019-12-27 10:13:31 INFO  Test_Base:84 - check password placeholder is visible
+2019-12-27 10:13:31 INFO  Test_Base:88 - password placeholder is visible
+2019-12-27 10:13:37 INFO  Test_Base:94 - user can login
+2019-12-29 12:10:36 INFO  Test_Base:53 - Add items in page
+2019-12-29 12:10:41 INFO  Test_Base:56 - items get added
+2019-12-29 12:10:49 INFO  Test_Base:53 - Add items in page
+2019-12-29 12:10:53 INFO  Test_Base:56 - items get added
+2019-12-29 12:11:02 INFO  Test_Base:55 - Check username is visible
+2019-12-29 12:11:02 INFO  Test_Base:59 - username is visible
+2019-12-29 12:11:07 INFO  Test_Base:30 - check title of loginpage
+2019-12-29 12:11:07 INFO  Test_Base:33 - title page is correct
+2019-12-29 12:11:25 INFO  Test_Base:51 - check title page of addstock categories
+2019-12-29 12:11:25 INFO  Test_Base:55 - title page of addstock categories is correct
+2019-12-29 12:11:32 INFO  Test_Base:62 - check click button
+2019-12-29 12:11:32 INFO  Test_Base:64 - button can be click
+2019-12-29 12:11:36 INFO  Test_Base:38 - check logo is available
+2019-12-29 12:11:37 INFO  Test_Base:41 - logo is available
+2019-12-29 12:11:42 INFO  Test_Base:66 - Check username placeholder is visible
+2019-12-29 12:11:42 INFO  Test_Base:70 - username placeholder is visible
+2019-12-29 12:11:58 INFO  Test_Base:41 - check Eprocbillingword is visible
+2019-12-29 12:11:58 INFO  Test_Base:45 - Eprocbilling is visible
+2019-12-29 12:12:04 INFO  Test_Base:60 - check webtable is available
+2019-12-29 12:12:04 INFO  Test_Base:62 - webtable is available
+2019-12-29 12:12:09 INFO  Test_Base:47 - check companyword is visible
+2019-12-29 12:12:09 INFO  Test_Base:50 - companyword is visible
+2019-12-29 12:12:13 INFO  Test_Base:75 - check password is visible
+2019-12-29 12:12:13 INFO  Test_Base:79 - password is visible
+2019-12-29 12:12:27 INFO  Test_Base:50 - check user click on items page
+2019-12-29 12:12:28 INFO  Test_Base:52 - user click on items page
+2019-12-29 12:12:34 INFO  Test_Base:67 - check webtable
+2019-12-29 12:13:04 INFO  Test_Base:69 - webtable is correct
+2019-12-29 12:13:24 INFO  Test_Base:84 - check password placeholder is visible
+2019-12-29 12:13:24 INFO  Test_Base:88 - password placeholder is visible
+2019-12-29 12:13:30 INFO  Test_Base:94 - user can login
+2019-12-31 16:08:36 INFO  Test_Base:53 - Add items in page
+2019-12-31 16:08:41 INFO  Test_Base:56 - items get added
+2019-12-31 16:08:46 INFO  Test_Base:53 - Add items in page
+2019-12-31 16:08:51 INFO  Test_Base:56 - items get added
+2019-12-31 16:08:55 INFO  Test_Base:55 - Check username is visible
+2019-12-31 16:08:55 INFO  Test_Base:59 - username is visible
+2019-12-31 16:09:00 INFO  Test_Base:30 - check title of loginpage
+2019-12-31 16:09:00 INFO  Test_Base:33 - title page is correct
+2019-12-31 16:09:12 INFO  Test_Base:51 - check title page of addstock categories
+2019-12-31 16:09:12 INFO  Test_Base:55 - title page of addstock categories is correct
+2019-12-31 16:09:17 INFO  Test_Base:62 - check click button
+2019-12-31 16:09:17 INFO  Test_Base:64 - button can be click
+2019-12-31 16:09:21 INFO  Test_Base:38 - check logo is available
+2019-12-31 16:09:22 INFO  Test_Base:41 - logo is available
+2019-12-31 16:09:26 INFO  Test_Base:66 - Check username placeholder is visible
+2019-12-31 16:09:26 INFO  Test_Base:70 - username placeholder is visible
+2019-12-31 16:09:41 INFO  Test_Base:41 - check Eprocbillingword is visible
+2019-12-31 16:09:41 INFO  Test_Base:45 - Eprocbilling is visible
+2019-12-31 16:09:48 INFO  Test_Base:60 - check webtable is available
+2019-12-31 16:09:48 INFO  Test_Base:62 - webtable is available
+2019-12-31 16:09:52 INFO  Test_Base:47 - check companyword is visible
+2019-12-31 16:09:52 INFO  Test_Base:50 - companyword is visible
+2019-12-31 16:09:56 INFO  Test_Base:75 - check password is visible
+2019-12-31 16:09:56 INFO  Test_Base:79 - password is visible
+2019-12-31 16:10:07 INFO  Test_Base:50 - check user click on items page
+2019-12-31 16:10:08 INFO  Test_Base:52 - user click on items page
+2019-12-31 16:10:14 INFO  Test_Base:67 - check webtable
+2019-12-31 16:10:45 INFO  Test_Base:69 - webtable is correct
+2019-12-31 16:26:34 INFO  Test_Base:53 - Add items in page
+2019-12-31 16:26:38 INFO  Test_Base:56 - items get added
+2019-12-31 16:26:50 INFO  Test_Base:53 - Add items in page
+2019-12-31 16:26:55 INFO  Test_Base:56 - items get added
+2019-12-31 16:27:05 INFO  Test_Base:55 - Check username is visible
+2019-12-31 16:27:05 INFO  Test_Base:59 - username is visible
+2019-12-31 16:27:14 INFO  Test_Base:30 - check title of loginpage
+2019-12-31 16:27:14 INFO  Test_Base:33 - title page is correct
+2019-12-31 16:28:58 INFO  Test_Base:38 - check logo is available
+2019-12-31 16:28:58 INFO  Test_Base:41 - logo is available
+2019-12-31 16:29:05 INFO  Test_Base:66 - Check username placeholder is visible
+2019-12-31 16:29:05 INFO  Test_Base:70 - username placeholder is visible
+2019-12-31 16:29:38 INFO  Test_Base:41 - check Eprocbillingword is visible
+2019-12-31 16:29:38 INFO  Test_Base:45 - Eprocbilling is visible
+2019-12-31 16:29:44 INFO  Test_Base:47 - check companyword is visible
+2019-12-31 16:29:44 INFO  Test_Base:50 - companyword is visible
+2019-12-31 16:29:49 INFO  Test_Base:75 - check password is visible
+2019-12-31 16:29:49 INFO  Test_Base:79 - password is visible
+2019-12-31 16:30:08 INFO  Test_Base:50 - check user click on items page
+2019-12-31 16:30:10 INFO  Test_Base:52 - user click on items page
+2019-12-31 16:30:40 INFO  Test_Base:84 - check password placeholder is visible
+2019-12-31 16:30:40 INFO  Test_Base:88 - password placeholder is visible
+2019-12-31 16:30:49 INFO  Test_Base:94 - user can login
